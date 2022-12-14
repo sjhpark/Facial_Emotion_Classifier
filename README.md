@@ -28,8 +28,10 @@ The directory tree should look like this:
 Pytorch 1.13.0:
 * pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
 * We recommend Pytorch 1.13.0 or above since 1.12.0 or below seems to fail to split the odd number of data.
+
 Tensorflow
 * pip install tensorflow
+
 OpenCV
 * pip install opencv-python
 
