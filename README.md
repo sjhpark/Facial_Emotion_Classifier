@@ -23,3 +23,7 @@ The directory tree should look like this:
   * * * * images
   * * * * * 0.jpg, 1.jpg, ...
 
+**Demo - Live Face Detection & Emotion Recognition & Classification**
+https://user-images.githubusercontent.com/83327791/207692443-8e0c4d54-7eb0-4343-99a2-35cb1ce5ed92.mp4
+
+
