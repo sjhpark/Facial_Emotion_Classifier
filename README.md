@@ -38,7 +38,7 @@ Tensorflow
 OpenCV
 * pip install opencv-python
 
-# Data
+# Data - AffectNet8
 ![num_classes_train](https://user-images.githubusercontent.com/83327791/208017576-7120a473-f9b7-4f3c-a62a-abe1c6ba35a2.png)
 
 # Model Training & Accuracy
