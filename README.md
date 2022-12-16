@@ -50,7 +50,9 @@ OpenCV
 ![f1_score](https://user-images.githubusercontent.com/83327791/208017643-77fbb2b0-520b-4bc2-a71f-82c041a069e6.png)
 
 # Demo - Live Face Detection & Emotion Recognition & Classification
+
 ![disney_emotions](https://user-images.githubusercontent.com/83327791/208017677-3c6a2972-0d93-4b7c-87d1-506793e30e0c.png)
+
 [![Watch the video]()](https://user-images.githubusercontent.com/83327791/207692443-8e0c4d54-7eb0-4343-99a2-35cb1ce5ed92.mp4)
 
 
