@@ -42,12 +42,12 @@ OpenCV
 ![num_classes_train](https://user-images.githubusercontent.com/83327791/208017576-7120a473-f9b7-4f3c-a62a-abe1c6ba35a2.png width=50% height=50%)
 
 # Model Training & Accuracy
-![Baseline_CNN_Trained_Performance](https://user-images.githubusercontent.com/83327791/208017525-50970dd7-be25-4dd6-8db0-690b8d84bb50.png width=50% height=50%)
+![Baseline_CNN_Trained_Performance](https://user-images.githubusercontent.com/83327791/208017525-50970dd7-be25-4dd6-8db0-690b8d84bb50.png)
 
 # Confusion Analysis
-![confusion_matrix_ratio](https://user-images.githubusercontent.com/83327791/208017616-4d2041fd-5656-4ba6-b44a-265cf54f6295.png width=50% height=50%)
-![confusion_matrix_count](https://user-images.githubusercontent.com/83327791/208017618-d2d1fd87-8fdb-4a40-ac98-863f4f8fc78c.png width=50% height=50%)
-![f1_score](https://user-images.githubusercontent.com/83327791/208017643-77fbb2b0-520b-4bc2-a71f-82c041a069e6.png width=50% height=50%)
+![confusion_matrix_ratio](https://user-images.githubusercontent.com/83327791/208017616-4d2041fd-5656-4ba6-b44a-265cf54f6295.png)
+![confusion_matrix_count](https://user-images.githubusercontent.com/83327791/208017618-d2d1fd87-8fdb-4a40-ac98-863f4f8fc78c.png)
+![f1_score](https://user-images.githubusercontent.com/83327791/208017643-77fbb2b0-520b-4bc2-a71f-82c041a069e6.png)
 
 # Demo - Live Face Detection & Emotion Recognition & Classification
 
