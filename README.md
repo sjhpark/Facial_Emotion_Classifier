@@ -39,7 +39,7 @@ OpenCV
 * pip install opencv-python
 
 # Data - AffectNet8
-![num_classes_train](https://user-images.githubusercontent.com/83327791/208017576-7120a473-f9b7-4f3c-a62a-abe1c6ba35a2.png)
+![num_classes_train](https://user-images.githubusercontent.com/83327791/208017576-7120a473-f9b7-4f3c-a62a-abe1c6ba35a2.png width=50% height=50%)
 
 # Model Training & Accuracy
 ![Baseline_CNN_Trained_Performance](https://user-images.githubusercontent.com/83327791/208017525-50970dd7-be25-4dd6-8db0-690b8d84bb50.png)
