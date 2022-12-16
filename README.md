@@ -38,9 +38,19 @@ Tensorflow
 OpenCV
 * pip install opencv-python
 
+# Data
+![num_classes_train](https://user-images.githubusercontent.com/83327791/208017576-7120a473-f9b7-4f3c-a62a-abe1c6ba35a2.png)
+
+# Model Training & Accuracy
+![Baseline_CNN_Trained_Performance](https://user-images.githubusercontent.com/83327791/208017525-50970dd7-be25-4dd6-8db0-690b8d84bb50.png)
+
+# Confusion Analysis
+![confusion_matrix_ratio](https://user-images.githubusercontent.com/83327791/208017616-4d2041fd-5656-4ba6-b44a-265cf54f6295.png)
+![confusion_matrix_count](https://user-images.githubusercontent.com/83327791/208017618-d2d1fd87-8fdb-4a40-ac98-863f4f8fc78c.png)
+![f1_score](https://user-images.githubusercontent.com/83327791/208017643-77fbb2b0-520b-4bc2-a71f-82c041a069e6.png)
 
 # Demo - Live Face Detection & Emotion Recognition & Classification
-
+![disney_emotions](https://user-images.githubusercontent.com/83327791/208017677-3c6a2972-0d93-4b7c-87d1-506793e30e0c.png)
 [![Watch the video]()](https://user-images.githubusercontent.com/83327791/207692443-8e0c4d54-7eb0-4343-99a2-35cb1ce5ed92.mp4)
 
 
