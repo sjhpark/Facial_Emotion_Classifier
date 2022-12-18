@@ -1,7 +1,7 @@
 # Facial_Emotion_Classifier
 **Facial Expression Emotion Recognition and Classification**
 
-This repository contains the codes/scripts for our [paper](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27080bd7-0021-4ad3-8ba4-c8df5adf65c7/24787_Final_Report_Human_Emotion_Classification.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221217T092053Z&X-Amz-Expires=86400&X-Amz-Signature=e987219711261bb17c8df45fff8fe2dec5074c345db3ab808c5e4bdf6a45660a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2224787_Final_Report_Human_Emotion_Classification.pdf%22&x-id=GetObject). 
+This repository contains the codes/scripts for our unpublished [paper](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27080bd7-0021-4ad3-8ba4-c8df5adf65c7/24787_Final_Report_Human_Emotion_Classification.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221217T092053Z&X-Amz-Expires=86400&X-Amz-Signature=e987219711261bb17c8df45fff8fe2dec5074c345db3ab808c5e4bdf6a45660a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2224787_Final_Report_Human_Emotion_Classification.pdf%22&x-id=GetObject). 
 
 We have created lines of codes to create and train a baseline CNN model and check its accuracy on AffectNet8, the mini-version of human face image benchmark dataset.
 Further, we have implemented scripts to lively detect faces and predict their emotions in 2 ways: 1. Webcam 2. Screen-mirroring.
