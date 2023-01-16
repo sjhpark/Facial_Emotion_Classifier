@@ -13,8 +13,8 @@ Please find the benchmark dataset (AffectNet) we have used to train our CNN mode
 * http://mohammadmahoor.com/wp-content/uploads/2017/08/AffectNet_oneColumn-2.pdf
 
 ## Directory Setup
-Due to the ownership of the dataset we used (AffectNet) to train our CNN model, we cannot provide the dataset here.
-Please create or grab your own face image dataset and place them into "dataset" folder.
+Due to the ownership of the dataset that we used (AffectNet) to train our CNN model, we cannot provide the dataset here.
+Please create or grab your own face image dataset and place them into "dataset" folder. Note that our ipynb file is customized for the image size of 224x224x3.
 The directory tree should look like this:
 * src
   * Facial_Emotion_Classification.ipynb
